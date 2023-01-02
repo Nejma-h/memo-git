@@ -39,4 +39,26 @@
 
   <h2>1.8 — Gérer les conflits (en individuel)</h2>
   
+  <h2>1.9 — Authentification SSH avec Git(en individuel)</h2>
+  
+  ![Capture d’écran du 2023-01-02 11-17-10](https://user-images.githubusercontent.com/121094064/210218316-adc4aab2-8c9a-44ec-9639-d047eb65f12d.png)
+
+  
+  ![Capture d’écran du 2023-01-02 11-11-44](https://user-images.githubusercontent.com/121094064/210218104-6b69fbd8-bb73-425a-b9d8-551741efca4b.png)
+
+  
+  <h2>2.1 — Utilisation des branches et Fork</h2>
+  
+  <h3>Fork : https://github.com/Nejma-h/git-cda-2023-sample</h3>
+  
+  ![Capture d’écran du 2023-01-02 10-31-04](https://user-images.githubusercontent.com/121094064/210214295-651995ba-8097-4253-94ab-e5a19ff574e5.png)
+  
+  <h2>2.2 — Mise à jour avec Git(En Équipe)</h2>
+  
+  <h3>Repo du site CDV en équipe : [https://github.com/Nejma-h](https://github.com/Nejma-h/une-histoire-incroyable](https://github.com/Nejma-h/cda-2023-CDV]</h3>
+  
+
+  <h2>2.3 — Gitignore</h2>
+  
+  
   
